@@ -55,7 +55,7 @@ public class LearnActivity extends AppCompatActivity implements CardStackListene
                 "Patna", "New Delhi", "Mumbai", "New Delhi"));
         flashCardList.add(new FlashCard("What is the capital of West Bengal", "Kolkata",
                 "Kharagpur", "Durgapur", "Asansol", "Kolkata"));
-        flashCardList.add(new FlashCard("What is the capital of India", "Gaya",
+        flashCardList.add(new FlashCard("What is the capital of Bihar", "Gaya",
                 "Patna", "Nalanda", "Darbanga", "Patna"));
         flashCardList.add(new FlashCard("What is the capital of Jharkhand", "Bokaro Steel City",
                 "Ranchi", "Jamshedpur", "Dhanbad", "Ranchi"));
