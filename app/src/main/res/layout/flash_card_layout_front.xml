@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvFlashCardQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_16dp"
+        android:layout_marginBottom="@dimen/dimen_8dp"
+        android:layout_marginRight="@dimen/dimen_16dp"
+        android:layout_marginLeft="@dimen/dimen_16dp"
+        android:text="Question"
+        android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+        />
+
+    <TextView
+        android:id="@+id/tvFlashCardOption1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_16dp"
+        android:layout_marginBottom="@dimen/dimen_8dp"
+        android:layout_marginRight="@dimen/dimen_16dp"
+        android:layout_marginLeft="@dimen/dimen_16dp"
+        android:text="Option1"
+        android:background="@drawable/round_boundary_background"
+        android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+        />
+
+    <TextView
+        android:id="@+id/tvFlashCardOption2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_8dp"
+        android:layout_marginRight="@dimen/dimen_16dp"
+        android:layout_marginLeft="@dimen/dimen_16dp"
+        android:text="Option2"
+        android:background="@drawable/round_boundary_background"
+        android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+        />
+
+    <TextView
+        android:id="@+id/tvFlashCardOption3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_8dp"
+        android:layout_marginRight="@dimen/dimen_16dp"
+        android:layout_marginLeft="@dimen/dimen_16dp"
+        android:text="Option3"
+        android:background="@drawable/round_boundary_background"
+        android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+        />
+
+    <TextView
+        android:id="@+id/tvFlashCardOption4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_8dp"
+        android:layout_marginRight="@dimen/dimen_16dp"
+        android:layout_marginLeft="@dimen/dimen_16dp"
+        android:text="Option4"
+        android:background="@drawable/round_boundary_background"
+        android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+        />
+
+
+</LinearLayout>
